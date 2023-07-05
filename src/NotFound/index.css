@@ -1,0 +1,11 @@
+.not {
+  width: 400px;
+  height: 400px;
+  margin-top: 10px;
+}
+.nd {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
